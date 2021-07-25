@@ -1,7 +1,7 @@
 
 Group Information
 
-| Student Name   |     IT Number    |  
+| IT Number   |     Name    |  
 |----------|:-------------:|
 | IT19121048 |  Ekanayaka E.M.S.G. | 
 | IT19099514 |    Chandrasena T.K.T.A.   | 
